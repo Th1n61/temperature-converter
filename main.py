@@ -1,5 +1,5 @@
-a = input('''For converting Celsius to Fahrenheit, type c to f.
-For converting Fahrenheit to Celsius, type f to c.
+a = input('''For converting Celsius to Fahrenheit, type \'c to f\'.
+For converting Fahrenheit to Celsius, type \'f to c\'.
 ''')
 
 def c_to_f():
